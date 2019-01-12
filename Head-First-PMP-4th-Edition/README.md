@@ -19,7 +19,7 @@
 
 ### Chapter 5: Scope management
 
-### Chapter 6： Time management
+### Chapter 6：Time management
 
 ### Chapter 7: Cost management
 
