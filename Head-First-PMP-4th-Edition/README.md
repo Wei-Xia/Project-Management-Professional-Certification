@@ -14,6 +14,12 @@
 
 
 ### Chapter 3: The process framework
+#### Process groups
+- Initiating process group
+- Planning process group
+- Executing process group
+- Monitoring and Controlling process group
+- Closing process group
 
 ### Chapter 4: Project integration management
 
