@@ -15,11 +15,65 @@
 
 ### Chapter 3: The process framework
 #### Process groups
-- Initiating process group
-- Planning process group
-- Executing process group
-- Monitoring and Controlling process group
-- Closing process group
+* Initiating process group
+  * Develop Project Charter
+  * Identify Stakeholders
+* Planning process group
+  * Develop Project Management Plan
+  * Estimate Activity Durations
+  * Identify Risks
+  * Plan Quality Management
+* Executing process group
+  * Direct and Manage Project Work
+  * Manage Communications
+* Monitoring and Controlling process group
+  * Control Scope
+  * Monitor and Control Project Work
+  * Control Schedule
+* Closing process group
+  * Close Project or Phase
+
+#### Knowledge Areas
+* Integration Management
+* Schedule Management
+* Quality Management
+* Communications Management
+* Procurement Management
+* Stakeholder Management
+* Risk Management
+* Resource Management
+* Cost Management
+* Scope Management
+
+#### PMI Talent Triangle
+* Technical Project Management
+* Leadership
+* Strategic and Business Management
+
+#### Styles of leadership
+* Laissez faire
+* Charismatic
+* Interactional
+* Transactional
+* Transformational
+* Servant leader
+
+#### Types of power
+* **Positional**: The kind of power a CEO has, it exists because of the position or role someone is playing.
+* **Informational**: When someone knows something important that other people need.
+* **Referent**: When someone is trusted or judged as credible based on past experience.
+* **Situational**: When someone has skills specific to a situation that you're in and you need his help.
+* **Personal or charismatic**: When someone has influence over you because you like her personality.
+* **Relational**: When someone has influence because he has an alliance with someone else who is influential.
+* **Expert**: When someone has influence because she is demonstrated knowledge about something that you need.
+* **Reward-oriented**: When someone has influence because he can get you something you want or need.
+* **Punitive or coercive**: When someone has influence over you because she can cause problems for you if you don't do what she wants.
+* **Ingratiating**: When someone has influence with you because he tells you that you're great.
+* **Pressure-base**: When someone can create circumstances that make you seem out of step with the rest of the organization if you don't comply with her requests.
+* **Guilt-based**: When someone appeals to your sense of honor or duty to get you to do what he wants.
+* **Persuasive**: When a person influences you by having a rational argument with you that changes your mind.
+* **Avoiding**: When a person withdraws her involvement in an issue in order to get desired behavior.
+
 
 ### Chapter 4: Project integration management
 
