@@ -4,16 +4,14 @@
   * Performance
   * Personal skills
 * Portfolio, Program, Project
-  * A **program** is a collection of projects that should be managed together in order to achieve a specific goal or benefit to the company.
-  * A **portfolio** is a collection of projects or programs.
-  * A **project** gathers a team together to do work that's **temporary**, creates a **unique result**, and is **progressively elaborated**.
-* A **project charter** is a document that describes a project's requirements and high-level schedule, assigns a project manager, and authorizes the project.
-* An **operation** (or **process**) is work that's done in a way that's repeatable and ongoing, but is not a project.
-* A project is
+  * A portfolio is a group of projects or programs that are linked together by a business goal.
+  * A program is a group of projects that are closely linked, to the point where managing them together provides some benefit.
+  * A project is any work that produces a specific result and is temporary.
+* A Project is
   * Temporary
   * Creating a unique result
   * Progressively elaborated
-* A project is NOT
+* A Project is NOT
   * always strategic or critical
   * ongoing operations (or processes)
   * always successful
@@ -33,6 +31,7 @@
   * Coaching
   * Conflict management
   * Political and cultural awareness
+
 #### Bullet Points: aiming for the exam
 * **Knowledge**, **performance**, and **personal skills** are the three areas that project managers focus on to get better at their jobs
 * A **project charter** is a document that describes a project's requirements and high-level schedule, assigns a project manager, and authorizes the project.
@@ -42,6 +41,53 @@
 * An **operation** (or **process**) is work that's done in a way that's repeatable and ongoing, but is not a project.
 
 ### Chapter 2: Organizations, constraints, and projects
+* Organization Magnets
+  * Functional organization
+    * PMs spend half their time doing admin tasks.
+    * Project managers need to clear major decisions with department managers.
+    * Pms don't set the budget.
+  * Projectized organization
+    * Teams are organized around projects.
+    * Project managers choose the team members, and release them when the project is over.
+    * Project managers estimate and tract budget and schedule.
+* Types of organizational structures
+  * Organic organization
+    * Project management is handled as a part-time responsibility for someone on a project team.
+    * Project managers are usually contributors to the project who take on the added responsibility of helping stakeholders understand project status.
+    * In an organic organization, it's likely that the project manager has little responsibility for budget decisions. Usually those kinds of decisions are made by the company owner.
+  * Functional organization
+    * Project management decisions need to be cleared with functional managers.
+    * Project managers are the functional managers in getting the work done.
+    * Project managers spend lots of time doing administrative tasks and often work as PMs only part of the time.
+    * You're likely to find project expediters in functional organizations.
+  * Multidivisional organization
+    * PMs might operate in a completely different way from division to division.
+    * PMs are often project coordinators or part-time  expediters who actually work on the project team as a full-time contributor but take on the added responsibility of communicating project status.
+    * Decisions about budget or resource allocation need to be made by functional managers.
+  * Weak matrix organization
+    * PMs have some authority, but they aren't in charge of the resources on a project.
+    * Major decisions still need to be made with the functional manager's cooperation or approval.
+    * Project expediters and project coordinators can work in weak matrix organizations, too.
+  * Balanced matrix organization
+    * Project managers share authority with the functional managers.
+    * PMs run their people-management decisions by the functional manager, but the functional manager runs project decisions by the PM, too.
+  * Strong matrix organization
+    * Project managers have more authority than functional managers, but the team still reports to both managers.
+    * The team might be judged based on performance on their projects, as well as on their functional expertise. In a strong matrix, delivery of the project is most important.
+  * Project-oriented organization
+    * Teams are organized around projects. When a project is done, the team is released, and the team members move on to another project.
+    * The project manager makes all of the decisions about a project's budget, schedule, quality, and resources.
+    * The PM is responsible for the success or failure of the project.
+  * Virtual organization
+    * Virtual teams can be made up of people from many different parts of an organization who might have different reporting structures and work in different offices.
+    * Project managers often take on the role of facilitating team communications on virtual teams.
+    * PMs in this organizational structure sometimes have authority over budget and resource allocations.
+  * Hybrid organization
+    * Hybrid organizations put together practices for working in predictive lifecycles with practices for working in adaptive ones.
+    * Predictive lifecycles tend to rely more on management for understanding scope and status, while adaptive ones make that data transparent and focus on self-management within each other.
+    * Since the teams are using a combination of practices, the way the project manager works varies along with the team.
+
+#### Bullet Points: aiming for the exam
 * Functional managers have all the power in a functional organization. Project managers have the power in a projectized organization.
 * If a question on the exam doesn't state an organization type, assume it's referring to a matrix organization. That means the PM is responsible for making budgets, assigning tasks to resources, and resolving conflicts.
 * Project coordinators and expediters don't exist in a projectized organization.
