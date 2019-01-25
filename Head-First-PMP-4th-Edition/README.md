@@ -1,29 +1,29 @@
 ## Chapter 1: Introduction
-* Project managers focus on to get better at their jobs
+### Project managers focus on to get better at their jobs
   * Knowledge
   * Performance
   * Personal skills
-* Portfolio, Program, Project
+### Portfolio, Program, Project
   * A portfolio is a group of projects or programs that are linked together by a business goal.
   * A program is a group of projects that are closely linked, to the point where managing them together provides some benefit.
   * A project is any work that produces a specific result and is temporary.
-* A Project is
+### A Project is
   * Temporary
   * Creating a unique result
   * Progressively elaborated
-* A Project is NOT
+### A Project is NOT
   * always strategic or critical
   * ongoing operations (or processes)
   * always successful
-* A day in the life of a project manager
+### A day in the life of a project manager
   * Gather product requirements
   * Manage stakeholder expectations
   * Deal with project constraints
-* Project management offices (PMOs)
+### Project management offices (PMOs)
   * Supportive
   * Controlling
   * Directive
-* Project Manager interpersonal and team skills
+### Project Manager interpersonal and team skills
   * Leadership
   * Team building and trust building
   * Motivation
@@ -41,7 +41,7 @@
 * An **operation** (or **process**) is work that's done in a way that's repeatable and ongoing, but is not a project.
 
 ## Chapter 2: Organizations, constraints, and projects
-* Organization Magnets
+### Organization Magnets
   * Functional organization
     * PMs spend half their time doing admin tasks.
     * Project managers need to clear major decisions with department managers.
@@ -50,7 +50,8 @@
     * Teams are organized around projects.
     * Project managers choose the team members, and release them when the project is over.
     * Project managers estimate and tract budget and schedule.
-* Types of organizational structures
+
+### Types of organizational structures
   * Organic organization
     * Project management is handled as a part-time responsibility for someone on a project team.
     * Project managers are usually contributors to the project who take on the added responsibility of helping stakeholders understand project status.
