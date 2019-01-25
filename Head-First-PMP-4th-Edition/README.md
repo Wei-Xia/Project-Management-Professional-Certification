@@ -1,4 +1,4 @@
-### Chapter 1: Introduction
+## Chapter 1: Introduction
 * Project managers focus on to get better at their jobs
   * Knowledge
   * Performance
@@ -32,7 +32,7 @@
   * Conflict management
   * Political and cultural awareness
 
-#### Bullet Points: aiming for the exam
+### Bullet Points: aiming for the exam
 * **Knowledge**, **performance**, and **personal skills** are the three areas that project managers focus on to get better at their jobs
 * A **project charter** is a document that describes a project's requirements and high-level schedule, assigns a project manager, and authorizes the project.
 * A **program** is a collection of projects that should be managed together in order to achieve a specific goal or benefit to the company.
@@ -40,7 +40,7 @@
 * A **project** gathers a team together to do work that's **temporary**, creates a **unique result**, and is **progressively elaborated**.
 * An **operation** (or **process**) is work that's done in a way that's repeatable and ongoing, but is not a project.
 
-### Chapter 2: Organizations, constraints, and projects
+## Chapter 2: Organizations, constraints, and projects
 * Organization Magnets
   * Functional organization
     * PMs spend half their time doing admin tasks.
@@ -87,15 +87,36 @@
     * Predictive lifecycles tend to rely more on management for understanding scope and status, while adaptive ones make that data transparent and focus on self-management within each other.
     * Since the teams are using a combination of practices, the way the project manager works varies along with the team.
 
-#### Bullet Points: aiming for the exam
+### Manage project constraints
+* Time
+* Cost
+* Scope
+* Resources
+* Quality
+* Risk
+
+### Organizational process assets
+* Process
+* Policies
+* Knowledge repositories
+* Procedures
+
+### Enterprise environmental factors
+* People
+* Market
+* Databases
+* Risk tolerance
+* Standards
+
+### Bullet Points: aiming for the exam
 * Functional managers have all the power in a functional organization. Project managers have the power in a projectized organization.
 * If a question on the exam doesn't state an organization type, assume it's referring to a matrix organization. That means the PM is responsible for making budgets, assigning tasks to resources, and resolving conflicts.
 * Project coordinators and expediters don't exist in a projectized organization.
 * A project expediter keeps track of project status only. A project coordinator has some authority, and usually reports to someone higher up in the company. Neither role has as much power or authority as a real project manager, even though expediters or coordinators may have "Project Manager" printed on their business cards.
 
 
-### Chapter 3: The process framework
-#### Process groups
+## Chapter 3: The process framework
+### Process groups
 * Initiating process group
   * Develop Project Charter
   * Identify Stakeholders
@@ -114,7 +135,7 @@
 * Closing process group
   * Close Project or Phase
 
-#### Knowledge Areas
+### Knowledge Areas
 * Integration Management
 * Schedule Management
 * Quality Management
@@ -126,12 +147,12 @@
 * Cost Management
 * Scope Management
 
-#### PMI Talent Triangle
+### PMI Talent Triangle
 * Technical Project Management
 * Leadership
 * Strategic and Business Management
 
-#### Styles of leadership
+### Styles of leadership
 * Laissez faire
 * Charismatic
 * Interactional
@@ -139,7 +160,7 @@
 * Transformational
 * Servant leader
 
-#### Types of power
+### Types of power
 * **Positional**: The kind of power a CEO has, it exists because of the position or role someone is playing.
 * **Informational**: When someone knows something important that other people need.
 * **Referent**: When someone is trusted or judged as credible based on past experience.
@@ -156,28 +177,28 @@
 * **Avoiding**: When a person withdraws her involvement in an issue in order to get desired behavior.
 
 
-### Chapter 4: Project integration management
+## Chapter 4: Project integration management
 
-### Chapter 5: Scope management
+## Chapter 5: Scope management
 
-### Chapter 6: Time management
+## Chapter 6: Time management
 
-### Chapter 7: Cost management
+## Chapter 7: Cost management
 
-### Chapter 8: Quality management
+## Chapter 8: Quality management
 
-### Chapter 9: Human resource management
+## Chapter 9: Human resource management
 
-### Chapter 10: Communications management
+## Chapter 10: Communications management
 
-### Chapter 11: Project risk management
+## Chapter 11: Project risk management
 
-### Chapter 12: Procurement management
+## Chapter 12: Procurement management
 
-### Chapter 13: Stakeholder management
+## Chapter 13: Stakeholder management
 
-### Chapter 14: Professional responsibility
+## Chapter 14: Professional responsibility
 
-### Chapter 15: A little last-minute review
+## Chapter 15: A little last-minute review
 
-### Chapter 16: Practice makes perfect
+## Chapter 16: Practice makes perfect
