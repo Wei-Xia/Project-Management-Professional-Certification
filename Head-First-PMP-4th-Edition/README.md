@@ -1,10 +1,38 @@
 ### Chapter 1: Introduction
-* **Knowledge**, **performance**, and **personal skills** are the three areas that project managers focus on to get better at their jobs
+* Project managers focus on to get better at their jobs
+  * Knowledge
+  * Performance
+  * Personal skills
+* Portfolio, Program, Project
+  * A **program** is a collection of projects that should be managed together in order to achieve a specific goal or benefit to the company.
+  * A **portfolio** is a collection of projects or programs.
+  * A **project** gathers a team together to do work that's **temporary**, creates a **unique result**, and is **progressively elaborated**.
 * A **project charter** is a document that describes a project's requirements and high-level schedule, assigns a project manager, and authorizes the project.
-* A **program** is a collection of projects that should be managed together in order to achieve a specific goal or benefit to the company.
-* A **portfolio** is a collection of projects or programs.
-* A **project** gathers a team together to do work that's **temporary**, creates a **unique result**, and is **progressively elaborated**.
 * An **operation** (or **process**) is work that's done in a way that's repeatable and ongoing, but is not a project.
+* A project is
+  * Temporary
+  * Creating a unique result
+  * Progressively elaborated
+* A project is NOT
+  * always strategic or critical
+  * ongoing operations (or processes)
+  * always successful
+* A day in the life of a project manager
+  * Gather product requirements
+  * Manage stakeholder expectations
+  * Deal with project constraints
+* Project management offices (PMOs)
+  * Supportive
+  * Controlling
+  * Directive
+* Project Manager interpersonal and team skills
+  * Leadership
+  * Team building and trust building
+  * Motivation
+  * Influencing
+  * Coaching
+  * Conflict management
+  * Political and cultural awareness
 
 ### Chapter 2: Organizations, constraints, and projects
 * Functional managers have all the power in a functional organization. Project managers have the power in a projectized organization.
