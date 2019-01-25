@@ -33,6 +33,13 @@
   * Coaching
   * Conflict management
   * Political and cultural awareness
+#### Bullet Points: aiming for the exam
+* **Knowledge**, **performance**, and **personal skills** are the three areas that project managers focus on to get better at their jobs
+* A **project charter** is a document that describes a project's requirements and high-level schedule, assigns a project manager, and authorizes the project.
+* A **program** is a collection of projects that should be managed together in order to achieve a specific goal or benefit to the company.
+* A **portfolio** is a collection of projects or programs.
+* A **project** gathers a team together to do work that's **temporary**, creates a **unique result**, and is **progressively elaborated**.
+* An **operation** (or **process**) is work that's done in a way that's repeatable and ongoing, but is not a project.
 
 ### Chapter 2: Organizations, constraints, and projects
 * Functional managers have all the power in a functional organization. Project managers have the power in a projectized organization.
