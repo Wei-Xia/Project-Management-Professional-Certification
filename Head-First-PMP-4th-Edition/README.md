@@ -177,8 +177,19 @@
 * **Persuasive**: When a person influences you by having a rational argument with you that changes your mind.
 * **Avoiding**: When a person withdraws her involvement in an issue in order to get desired behavior.
 
-
 ## Chapter 4: Project integration management
+#### Integration Management processes
+* Develop Project Charter
+* Develop Project Management Plan
+* Direct and Manage Project Work
+* Manage Project Knowledge
+* Monitor and Control Project Work
+* Perform Integrated Change Control
+* Close Project or Phase
+
+#### Two processes in the Initiating process group
+* Develop Project Charter
+* Identify Stakeholders
 
 ## Chapter 5: Scope management
 
